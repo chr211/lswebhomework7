@@ -1,3 +1,10 @@
+//1. An array can be thought of as a bag that contains things. Each 'thing' in the bag has a name that's the same
+//as a number. 
+//2. An object represents something that has properties(keys) like color - adjectives etc. and can do things (verbs) with
+//methods. It's like a prototype or blueprint of how a robot looks and acts.
+//3. A method 'does' something - usually either gets information, sets information , or creates new data relating to an object.  
+
+
 
 function getBiggest(x, y) {
   //x and y are integers.  Return the larger integer
